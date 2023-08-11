@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "New Item",
+    "Price": 50,
+    "Size": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "id": "113"
+  },
+  {
+    "Name": "Sword",
+    "Price": 50,
+    "Size": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "id": "258"
+  },
+  {
+    "Name": "Chair",
+    "Price": 50,
+    "Size": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "id": "684"
+  },
+  {
+    "Name": "Cupboard",
+    "Price": 50,
+    "Size": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "id": "593"
+  }
+]
